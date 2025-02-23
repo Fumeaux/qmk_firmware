@@ -14,7 +14,7 @@
 
 1. qmk compile -kb cantor -km fully -j 8
 
-# 4 Flash the firmwark
+# 4 Flash the firmware
 
 put keyboard half into flash mode
 1. disconnect usb and aux cable
